@@ -12,10 +12,9 @@ Please Introduce my self,
   <h3>My Github stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=AlvinSetyaPranata&show_icons=true&theme=dark"/>   
     <br>
-  
-  <h3>Programing Languanges that i used</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvinSetyaPranata" style="margin-left: 20px;" />
-  
-  
 </p>
+
+  
+<h3>Programing Languanges that i used</h3>
+<p style="display: inline;">1. <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python</p>
 
