@@ -22,5 +22,5 @@ Please Introduce my self,
   
 </div>
 
-<p style="display: inline;">1.  Python</p>
+<!-- <p style="display: inline;">1.  Python</p> -->
 
