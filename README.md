@@ -16,5 +16,11 @@ Please Introduce my self,
 
   
 <h3>Programing Languanges that i used</h3>
-<p style="display: inline;">1. <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python</p>
+
+<div style="display: flex; align-items:center">
+  1. <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python
+  
+</div>
+
+<p style="display: inline;">1.  Python</p>
 
