@@ -18,9 +18,7 @@ Please Introduce my self,
 <h3>Programing Languanges that i used</h3>
 
 <div style="display: flex; align-items:center">
-  <p>1.</p> 
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <p>Python</p>
+  <p>1.</p><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><p>Python</p>
 </div>
 
 
