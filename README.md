@@ -34,4 +34,4 @@
     
 ## Let's connect!
 - <a href="https://alvinsetya.my.id">My porfolio</a>
-- <a href="www.linkedin.com/in/alvin-setya-3b23511b6">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/alvin-setya-3b23511b6">LinkedIn</a>
