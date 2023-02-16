@@ -1,6 +1,6 @@
-# Hi there, I'm Alvin
+# Hi there 👋👋, I'm Alvin
 
-**I'm a student from Indonesia, who loves working on web, desktop and mobile applications. I like to learn new things because I am very curious about new things. for now I like to build mostly web-based applications, API's, Desktop applications, and mobile application**
+**I'm a student from Indonesia 🇮🇩, who loves working on web, desktop and mobile applications. I like to explore and learn new things because of my great curiousity about technology. for now I often build mostly web-based applications, API's, Desktop applications, and mobile application.**
 
 <br>
 
@@ -11,7 +11,7 @@
 
 <br>
 
-**Language and Tools I used:**
+**My favorite languages, tools and frameworks that I use frequently:**
 
 
 <div style="display: flex">
@@ -28,7 +28,7 @@
 
 <br>
 
-### All of my projects is available on my github ^_^
+### All of my projects is available on my github repository ^_^
 
 <br>
     
