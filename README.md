@@ -1,13 +1,13 @@
 # Hi there, I'm Alvin
 
-**I'm a student from Indonesia, who loves working on web, desktop and mobile applications**
+**I'm a student from Indonesia, who loves working on web, desktop and mobile applications. I like to learn new things because I am very curious about new things. for now I like to build mostly web-based applications, API's, Desktop applications, and mobile application**
 
 <br>
 
 ## Currently i'm focussing on
-- **Web Development**
-- **Desktop Development**
-- **Mobile Development**
+- **🌐 Web Development**
+- **🖥️ Desktop Development**
+- **📱  Mobile Development**
 
 <br>
 
@@ -28,7 +28,7 @@
 
 <br>
 
-### My projects is available on my github ^_^
+### All of my projects is available on my github ^_^
 
 <br>
     
