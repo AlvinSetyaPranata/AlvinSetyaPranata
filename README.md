@@ -4,11 +4,17 @@
 
 <br>
 
-## Currently i'm focussing on
+## Currently i'm focussing on 🎯
 - **🌐 Web Development**
 - **🖥️ Desktop Development**
 - **📱  Mobile Development**
 
+<br>
+
+## Fun Fact ✨✨
+### I'm an Anime Otaku 🤡
+
+<br>
 <br>
 
 **My favorite languages, tools and frameworks that I use frequently:**
