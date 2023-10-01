@@ -12,7 +12,7 @@
 <br>
 
 ## Fun Fact ✨✨
-### I'm an Anime Otaku 🤡
+### I'm an Otaku 🤡
 
 <br>
 <br>
