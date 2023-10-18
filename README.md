@@ -58,6 +58,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinSetyaPranata&layout=compact)](https://github.com/AlvinSetyaPranata)
 
+<br>
     
 ## 🤝 Let's connect!
 <a href="https://alvinsetya.my.id"><img align="left" width="25" height="25" src="https://github.com/AlvinSetyaPranata/AlvinSetyaPranata/blob/d1d2368ef0780aeb71c2d693539b073e4939c100/logo.png" alt="Alvin | LinkedIn" width="21px"/></a>
