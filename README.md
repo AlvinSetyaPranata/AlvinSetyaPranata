@@ -51,8 +51,15 @@
 ![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=Vercel&color=000000)
 
 <br>
+
+## 📈 GitHub Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlvinSetyaPranata)](https://github.com/AlvinSetyaPranata)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinSetyaPranata&layout=compact)](https://github.com/AlvinSetyaPranata)
+
     
 ## 🤝 Let's connect!
-<a href="https://alvinsetya.my.id">My porfolio</a>
+<a href="https://alvinsetya.my.id"><img align="left" width="25" height="25" src="https://github.com/AlvinSetyaPranata/AlvinSetyaPranata/blob/d1d2368ef0780aeb71c2d693539b073e4939c100/logo.png" alt="Alvin | LinkedIn" width="21px"/></a>
 <a href="https://www.linkedin.com/in/alvin-setya-3b23511b6"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alvin | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/alvinsetya__p/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Alvin | Instagram" width="21px"/></a>
