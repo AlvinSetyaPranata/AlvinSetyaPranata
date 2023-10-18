@@ -1,44 +1,58 @@
-# Hi there 👋👋, I'm Alvin
+<h2 align="center"> Hi there 👋👋, I'm Alvin </h2>
 
-**I'm a student from Indonesia 🇮🇩, who loves working on web, desktop and mobile applications. I like to explore and learn new things because of my great curiousity about technology. for now I often build mostly web-based applications, API's, Desktop applications, and mobile application.**
 
-<br>
-
-## Currently i'm focussing on 🎯
-- **🌐 Web Development**
-- **🖥️ Desktop Development**
-- **📱  Mobile Development**
+<h3 align="center">I'm a Desktop, Mobile, and Fullstack Developer</h3>
 
 <br>
 
-## Fun Fact ✨✨
-### I'm an Otaku 🤡
-
-<br>
-<br>
-
-**My favorite languages, tools and frameworks that I use frequently:**
-
-
-<div style="display: flex">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="40"  width="40" alt="python-logo"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"  width="50" height="40" alt="reactjs-logo"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"  width="40" height="40" alt="tailwindcss-logo"/>
-    <img src="https://camo.githubusercontent.com/179d66ab2b0321726c88a586c4ad38802e7113a3c98c6fd3f0156c01c98cfd14/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51475136675a38595566456c50335430412e706e67"  width="40" height="40" alt="framer-motion-logo"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"  width="40" height="40" alt="figma-logo"/>
-    <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"  width="40" height="40" alt="flutter-logo"/>
-    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"  width="40" height="40" alt="nodejs-logo"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"  width="40" height="40" alt="html-logo"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"  width="30" height="40" alt="css-logo"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="80" height="40"/>
-</div>
+<p>I'm a student from Indonesia 🇮🇩, who loves working on web, desktop and mobile applications. I like to explore and learn new things because of my great curiousity about technology. for now I often build mostly web-based applications, API's, Desktop applications, and mobile application.</p>
 
 <br>
 
-### All of my projects is available on my github repository ^_^
+## 🎯 Currently i'm working on
+- 🌐 Web Development
+- 🖥️ Desktop Development
+- 📱 Mobile Development
+
+<br>
+
+## ✨ Fun Fact
+- 🤡  I'm an Otaku
+
+<br>
+
+## 🌱 I'm currently learning
+- React Native
+- Flutter
+- Nextjs
+
+<br>
+
+## 💼 Technical Skills
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&logo=Next.js&color=000000)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=092E20)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&color=000000)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&color=02569B)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=TailwindCSS&color=06B6D4)
+![](https://img.shields.io/badge/Style-FramerMotion-informational?style=flat&logo=Framer&color=0055FF)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-PyPI-informational?style=flat&logo=PyPI&color=3775A9)
+![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=Vercel&color=000000)
 
 <br>
     
-## Let's connect!
-- <a href="https://alvinsetya.my.id">My porfolio</a>
-- <a href="https://www.linkedin.com/in/alvin-setya-3b23511b6">LinkedIn</a>
+## 🤝 Let's connect!
+<a href="https://alvinsetya.my.id">My porfolio</a>
+<a href="https://www.linkedin.com/in/alvin-setya-3b23511b6"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alvin | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/alvinsetya__p/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Alvin | Instagram" width="21px"/></a>
