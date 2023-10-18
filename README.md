@@ -5,7 +5,7 @@
 
 <br>
 
-<p>I'm a student from Indonesia 🇮🇩, who loves working on web, desktop and mobile applications. I like to explore and learn new things because of my great curiousity about technology. for now I often build mostly web-based applications, API's, Desktop applications, and mobile application.</p>
+<p>I am a student from Indonesia 🇮🇩, who likes developing Websites, Desktop and Mobile applications, I like working in a team because we can share a lot of ideas and have a lot of relationships.</p>
 
 <br>
 
@@ -62,6 +62,13 @@
 <br>
     
 ## 🤝 Let's connect!
+If you have any questions/feedback, you can call me or send me an email on:
+
 <a href="https://alvinsetya.my.id"><img align="left" width="25" height="25" src="https://github.com/AlvinSetyaPranata/AlvinSetyaPranata/blob/d1d2368ef0780aeb71c2d693539b073e4939c100/logo.png" alt="Alvin | LinkedIn" width="21px"/></a>
 <a href="https://www.linkedin.com/in/alvin-setya-3b23511b6"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alvin | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/alvinsetya__p/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Alvin | Instagram" width="21px"/></a>
+
+<br>
+<br>
+
+<h2 align="center"> Thank You </h2>
