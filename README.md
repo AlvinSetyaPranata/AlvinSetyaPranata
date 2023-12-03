@@ -22,7 +22,8 @@
 <br>
 
 ## 🌱 I'm currently learning
-- React Native
+- Expressjs
+- Django
 - Flutter
 - Nextjs
 
