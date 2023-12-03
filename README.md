@@ -22,7 +22,7 @@
 <br>
 
 ## 🌱 I'm currently learning
-- Expressjs
+- Express
 - Django
 - Flutter
 - Nextjs
