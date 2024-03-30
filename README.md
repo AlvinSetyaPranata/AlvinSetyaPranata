@@ -1,11 +1,11 @@
 <h2 align="center"> Hi there 👋👋, I'm Alvin </h2>
 
 
-<h3 align="center">I'm a Desktop, Mobile, and Fullstack Developer</h3>
+<h3 align="center">a Desktop, Mobile, and Fullstack Developer with backend specialization</h3>
 
 <br>
 
-<p>I am a student from Indonesia 🇮🇩, who likes developing Websites, Desktop and Mobile applications, I like working in a team because we can share a lot of ideas and have a lot of relationships.</p>
+<p>I am a student from Indonesia 🇮🇩, who likes developing Websites, Desktop and Mobile applications, I like and ofter working in a team because we can share a lot of ideas and have a lot of relationships.</p>
 
 <br>
 
@@ -17,7 +17,7 @@
 <br>
 
 ## ✨ Fun Fact
-- 🤡  I'm an Otaku
+- 🤡  I'm an Otaku, te-he ;D
 
 <br>
 
