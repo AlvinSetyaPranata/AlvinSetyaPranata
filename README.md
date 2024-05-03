@@ -5,7 +5,7 @@
 
 <br>
 
-<p>I am a student from Indonesia 🇮🇩, who likes developing Websites, Desktop and Mobile applications, I like and ofter working in a team because we can share a lot of ideas and have a lot of relationships.</p>
+<p>I am a student from Indonesia 🇮🇩, who likes developing Websites, Desktop and Mobile applications, I like working in a team because we can share a lot of ideas and have a lot of relationships, i love to learn new things.</p>
 
 <br>
 
