@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there 👋👋, I'm Alvin </h2>
 
 
-<h3 align="center">Fullstack Developer | backend specialist</h3>
+<h3 align="center">Fullstack Developer | backend Expertise</h3>
 
 <br>
 
