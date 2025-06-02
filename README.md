@@ -67,7 +67,7 @@
 If you have any questions/feedback, you can call me or send me an email on:
 
 <a href="https://alvinsetya.my.id"><img align="left" width="25" height="25" src="https://github.com/AlvinSetyaPranata/AlvinSetyaPranata/blob/d1d2368ef0780aeb71c2d693539b073e4939c100/logo.png" alt="Alvin | LinkedIn" width="21px"/></a>
-<a href="https://www.linkedin.com/in/alvin-setya-3b23511b6"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alvin | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/alvin-setya"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Alvin | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/alvinsetya__p/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Alvin | Instagram" width="21px"/></a>
 
 <br>
