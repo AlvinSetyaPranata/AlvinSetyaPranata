@@ -5,7 +5,7 @@
 
 <br>
 
-<p>I am a student from Indonesia 🇮🇩, who likes developing Websites, Desktop and Mobile applications, I like working in a team because we can share a lot of ideas and have a lot of relationships, i love to learn new things.</p>
+<p>I am a student from Indonesia 🇮🇩, who likes developing Websites, Desktop and Mobile applications, I'd would like working in a team because we can share a lot of ideas and have a lot of relationships also minimialize the mistakes as possible, and i'd love to learn new things.</p>
 
 <br>
 
@@ -22,15 +22,15 @@
 <br>
 
 ## 🌱 I'm currently learning
-- Express
-- Django
-- Flutter
-- Nextjs
+- Gofiber
+- Swift
+- SolidJS
 
 <br>
 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=golang)
 ![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&logo=Next.js&color=000000)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
@@ -51,6 +51,7 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=Vercel&color=000000)
+
 
 <br>
 
