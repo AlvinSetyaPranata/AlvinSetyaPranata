@@ -29,7 +29,7 @@
 <br>
 
 ## 💼 Technical Skills
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=go&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=golang)
 ![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&logo=Next.js&color=000000)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
